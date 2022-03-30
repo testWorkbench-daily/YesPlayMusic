@@ -11,6 +11,5 @@ LICENSE
 .vscode
 dist
 dist_electron
-build
 images
 script
