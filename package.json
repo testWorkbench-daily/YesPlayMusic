@@ -126,5 +126,6 @@
     "hooks": {
       "pre-commit": "npm run prettier"
     }
-  }
+  },
+  "__npminstall_done": false
 }
